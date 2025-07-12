@@ -1,0 +1,12 @@
+{
+  "name": "backend-developer",
+  "version": "1.0.0",
+  "description": "Welcome to my hands-on learning journey towards becoming a **skilled backend developer**. This repository documents everything — from mastering **JavaScript fundamentals** to building **scalable, secure, and production-ready backend applications** using **Node.js, Express, MongoDB, MySQL, and Next.js**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
